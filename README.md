@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gawkky
 - 👀 I’m interested in the Music Industry, Basic Coding (HTML, CSS)
-- 🌱 I’m currently learning Angular/TS, Sass & LUA!
+- 🌱 I’m currently learning Angular/TS, Python & SQL
 - 📫 How to reach me hi@jeftheeuwes.be
 
 <!---
