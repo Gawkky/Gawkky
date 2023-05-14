@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gawkky
-- 👀 I’m interested in the Music Industry, Basic Coding (HTML, CSS)
+- 👀 I’m interested in the Data Analytics, Python and some web development
 - 🌱 I’m currently learning Angular/TS, Python & SQL
 - 📫 How to reach me hi@jeftheeuwes.be
 
