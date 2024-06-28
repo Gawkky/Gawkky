@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gawkky
-- 👀 I’m interested in the Data Analytics, Python and some web development
+- 👀 I’m interested in the Data Analytics and automatisation with Python
 - 🌱 I’m currently learning Python & SQL
-- 📫 How to reach me hi@jeftheeuwes.be
+- 📫 How to reach me: hi@jeftheeuwes.be
 
 <!---
 Gawkky/Gawkky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
