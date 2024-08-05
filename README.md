@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gawkky
 - 👀 I’m interested in the Data Analytics and automatisation with Python
-- 🌱 I’m currently learning Python, SQL, Django and Angular
+- 🌱 I’m currently learning Python, SQL, Django and React
 - 📫 How to reach me: hi@jeftheeuwes.be
 
 <!---
