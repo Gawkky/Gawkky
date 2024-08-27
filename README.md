@@ -29,7 +29,7 @@ technical_background:
     "Project Data Analyst",
   ]
   
-currently_learning: ["Docker, Python and React Vite"]
+currently_learning: ["Docker, Python, Django and React Vite"]
 hobbies: ["Festivals", "Dungeons & Dragons"]
 ```
 
