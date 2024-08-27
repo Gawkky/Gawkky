@@ -12,7 +12,7 @@ company: Aurubis Beerse
 
 education:
   [
-    "Self-Taught Developer and Designer",
+    "Self-Taught Developer",
     "Bachelor's in 'Music Management",
   ]
 
