@@ -30,7 +30,7 @@ technical_background:
   ]
   
 currently_learning: ["Docker, Python, Django and React Vite"]
-hobbies: ["Festivals", "Dungeons & Dragons"]
+hobbies: ["Dungeons & Dragons", "Fitness", "Squash"]
 ```
 
 <h2>🚀  Some Tools I Have Used</h2>
