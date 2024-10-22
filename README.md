@@ -7,7 +7,7 @@
 ```yaml
 name: Jef Theeuwes
 located_in: Belgium
-current_job: Project Data-Analyst
+current_job: Data Analyst
 company: Aurubis Beerse
 
 education:
