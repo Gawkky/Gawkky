@@ -26,7 +26,7 @@ fields_of_interests:
 technical_background:
   [
     "Full Stack Developer (Amateur)"
-    "Project Data Analyst",
+    "Data Analyst",
   ]
   
 currently_learning: ["Docker, Python, Django and React Vite"]
