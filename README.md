@@ -29,7 +29,7 @@ technical_background:
     "Data Analyst",
   ]
   
-currently_learning: ["Docker, Python, Django and React Vite"]
+currently_learning: ["Docker, Ansible, Python, Django and React Vite"]
 hobbies: ["Dungeons & Dragons", "Fitness", "Squash"]
 ```
 
@@ -72,4 +72,5 @@ hobbies: ["Dungeons & Dragons", "Fitness", "Squash"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original-wordmark.svg" alt="homebrew" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="45" height="45" />          
 </p>
