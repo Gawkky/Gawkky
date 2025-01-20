@@ -7,8 +7,8 @@
 ```yaml
 name: Jef Theeuwes
 located_in: Belgium
-current_job: Data Analyst
-company: Aurubis Beerse
+current_job: Data Governance Engineer
+company: dataSHIFT
 
 education:
   [
