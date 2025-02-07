@@ -36,7 +36,7 @@ hobbies: ["Dungeons & Dragons", "Fitness", "Squash"]
 <h2>🚀  Some Tools I Have Used</h2>
 <h3>👨‍💻 Data Engineering</h3>
 <p align="left">
-<img src="https://simpleicons.org/icons/snowflake.svg" alt="snowflake" width="45" height="45" />
+<img src="https://simpleicons.org/icons/snowflake.svg" alt="snowflake" width="45" height="45" color="white" />
 <img src="https://simpleicons.org/icons/dbt.svg" alt="snowflake" width="45" height="45" />
 </p>
 <h3>🔬 Home Lab</h3>
