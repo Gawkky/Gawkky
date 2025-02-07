@@ -52,6 +52,6 @@ hobbies: ["Dungeons & Dragons", "Fitness", "Squash"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-<img src="https://logotyp.us/file/collibra.svg" alt="Collibra"/>
+<img src="https://logotyp.us/file/collibra.svg" alt="Collibra" height="45"/>
 </p>
 
