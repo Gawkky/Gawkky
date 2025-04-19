@@ -20,7 +20,9 @@ fields_of_interests:
   [
     "Web Development",
     "Data Analytics",
-    "Automatisation"
+    "Automatisation",
+    "Data Engineering",
+    "Networking"
   ]
 
 technical_background:
@@ -30,7 +32,7 @@ technical_background:
   ]
   
 currently_learning: ["K3S, Docker, Python, Airflow, DBT, Snowflake"]
-hobbies: ["Dungeons & Dragons", "Fitness", "Squash"]
+hobbies: ["Dungeons & Dragons", "Fitness", "Squash", "Running"]
 ```
 
 <h2>🚀  Some Tools I Have Used</h2>
