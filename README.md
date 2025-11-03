@@ -13,7 +13,7 @@ company: dataSHIFT
 education:
   [
     "Self-Taught Developer",
-    "Bachelor's in 'Music Management",
+    "Bachelor's in Music Management",
   ]
 
 fields_of_interests:
@@ -31,8 +31,8 @@ technical_background:
     "Collibra Integration Engineer"
   ]
   
-currently_learning: ["K3S, Docker, Python, Airflow, DBT, Snowflake"]
-hobbies: ["Dungeons & Dragons", "Fitness", "Squash", "Running"]
+currently_learning: ["Kubernetes, Docker, Python, DBT, Snowflake"]
+hobbies: ["Dungeons & Dragons", "Squash", "Running"]
 ```
 
 <h2>🚀  Some Tools I Have Used</h2>
